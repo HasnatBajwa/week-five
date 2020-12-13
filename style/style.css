@@ -1,0 +1,99 @@
+.r1 {
+   
+    background-color: black;
+
+}
+.col-1{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight:400;
+}
+select{
+    background-color: black;
+    color: grey;
+}
+.r2{
+   
+    background-color: black;
+    color: white;
+
+}
+.col-10 {
+    background-color: black;
+    color: white;
+}
+#core{
+    color: white;
+    border-bottom: 1px solid white;
+}
+.r3{
+    background-color: rgb(73, 69, 69);
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#Learn{
+   color: white;
+    background-color: rgb(88, 88, 184);
+    border-radius: 4px;
+}
+#Learn:hover{
+    color: midnightblue;
+}
+.products{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.button{
+    background-color:white;
+    color:rgb(101, 101, 230);
+    font-size: 30px;
+    border-radius: 16px;
+}
+.but{
+    background-color: rgb(51, 51, 51);
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+}
+.text{
+    color: white;
+}
+.video {
+    background-image: url("../images/banner.jpeg");
+    
+}
+.features{
+    background-color: whitesmoke;
+}
+#news{
+    text-align: center;
+    font-size:20px;
+}
+.news{
+    background-color: white;
+    border-radius: 5px;
+}
+#subs{
+    border-radius: 5px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    
+}
+#mail{
+    width: 60%;
+border-radius: 6px;    
+}
+.footer{
+    background-color: rgb(73, 69, 69) ;
+    color: white;
+    
+}
+.ending{
+    font-size:10px;
+    text-align: center;
+}
+.pro{
+    text-align: center;
+}
